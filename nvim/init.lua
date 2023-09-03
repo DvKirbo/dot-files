@@ -1,0 +1,5 @@
+require("sebasC.core.colorscheme")
+require("sebasC.core.keymaps")
+require("sebasC.core.options")
+require("sebasC.plugins")
+require("sebasC.lazy")
